@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27311802822",
+    "project_id": "phoneverification-d9ced",
+    "storage_bucket": "phoneverification-d9ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27311802822:android:fc4577e908dc3c733f8ac7",
+        "android_client_info": {
+          "package_name": "com.otpauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjlSxuhHIy8x5WTJo09oLRZkWkEhzALjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
